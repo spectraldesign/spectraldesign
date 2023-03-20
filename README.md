@@ -5,7 +5,6 @@ I write code sometimes.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hosting-Azure-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/spectraldesign">
