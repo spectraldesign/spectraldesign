@@ -1,6 +1,7 @@
 <div align='center'>
-  
+ 
   I write code sometimes.
+  
   ## Technologies I work with
   
   ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2da698)
@@ -9,6 +10,7 @@
   ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=2da698)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2da698)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2da698)
+  
 
   <a href="https://github.com/spectraldesign">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=spectraldesign&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Stats" />
